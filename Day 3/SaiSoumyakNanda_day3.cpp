@@ -10,6 +10,7 @@ int main(){
         cout<<endl;
         else
         cout<<s[i];
+        
         i++;
     }
 }
